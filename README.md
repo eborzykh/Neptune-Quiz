@@ -1,6 +1,6 @@
 # Neptune-Quiz
 
-This repository is created for test and demo purpose. It implements a Quiz application created in ABAP.
+This repository is created for test and demo purpose. It implements Quiz application created in ABAP.
 
 ### Neptune-Quiz-App-DB
 Tables and back-end parts for Quiz Application <br>
